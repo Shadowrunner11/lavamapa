@@ -1,0 +1,12 @@
+{
+  "humanistas":[
+    {
+      "id": 1,
+      "departamentoId": 1,
+      "descripcion": "Este humanista es de la ptm",
+      "name": "Antony",
+      "lastName": "Palomino",
+      "secondLastName": "Ricaldi"
+    }
+  ]
+}
